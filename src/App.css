@@ -38,14 +38,19 @@ width: 320px;
 
 
 .mt{
-  width: 100%;
+  width: 320px;
   height: 300px;
   margin: 1px 10px; 
 }
 
 
-
-
+.txt{
+  margin: 10px 20px;
+}
+a{
+  cursor: pointer;
+  
+}
 
 
 

@@ -1,8 +1,12 @@
+import mountfuji from "./assets/fuji.jpg"
+import syndeny from "./assets/syndeny.jpg"
+import ranger from "./assets/ranger.jpg"
+
 export default [
     {
         id: 1,
         img: {
-            src: "./src/assets/fuji.jpg",
+            src: mountfuji ,
             alt: "Mount Fuji"
         },
         title: "Mount Fuji",
@@ -14,7 +18,7 @@ export default [
     {
         id: 2,
         img: {
-            src: "./src/assets/syndeny.jpg",
+            src: syndeny,
             alt: "Sydney Opera House"
         },
         title: "Sydney Opera House",
@@ -26,7 +30,7 @@ export default [
     {
         id: 3,
         img: {
-            src: "./src/assets/ranger.jpg",
+            src:ranger,
             alt: "Geirangerfjord"
         },
         title: "Geirangerfjord",
